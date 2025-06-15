@@ -57,7 +57,7 @@ The processor design was functionally verified using a Verilog testbench. The te
 
 Below is a sample waveform generated during simulation, demonstrating correct processor operation:
 
-![Simulation Waveform](Standard_Architecture_Code/Waveform.png)
+![](Code_AfterLinting_verilator/After_linting_Waveform.png)
 
 
 ## Linting and Static Analysis with Verilator
@@ -69,7 +69,6 @@ Below is a screenshot showing the final successful linting stage:
 
 ![Final Verilator Linting](Code_AfterLinting_verilator/Final_stage_Linting.png)
 
-Waveform:
 
-![](Code_AfterLinting_verilator/Waveform.png)
+
 
